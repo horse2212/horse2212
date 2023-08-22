@@ -1,6 +1,3 @@
-[![MasterHead](https://www.gelgez.net/wp-content/uploads/2021/05/uzay-karanligi-gelgez-700x420.jpg)
-
-
 <h1 align="center">Hi 👋, I'm emir dalkıc</h1>
 <h3 align="center">ben bir bilişim öğrencisiyim</h3>
 
